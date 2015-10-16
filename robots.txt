@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://cmback.github.io/sitemap.xml 
